@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently a student at **Indira Gandhi Delhi Technical University for Women**
 - 👯 I’m looking to collaborate on **Open Souce Projects**
-- 💬 Ask me about **UI/UX, Web Development**
+- 💬 Ask me about **UI/UX, Web Development, Machine Learning**
 - 📫 How to reach me: **[LinkedIn]((https://www.linkedin.com/in/lakshita-aggarwal-44901a326/))**
 
 ### 📫 Connect with me:
