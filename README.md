@@ -9,3 +9,6 @@
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lakshita-aggarwal-44901a326/)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+
